@@ -8,9 +8,13 @@ The `App.js` file is the main component of the application. It handles fetching 
 
 ### Installation & Start the project.
 
-1. Install the required dependencies by running `npm install`.
-2. Start the application by running `npm start`.
-3. Open the web app in your browser at `http://localhost:3000`.
+1. Clone the repository or download the source code.
+2. Open a terminal and navigate to the project directory.
+3. Install the required dependencies by running `npm install`.
+4. Start the application by running `npm start`.
+5. Open the web app in your browser at `http://localhost:3000`.
+
+Note: Backend service must be running before you start this project.
 
 ## CirclePackingCanvas.js
 
