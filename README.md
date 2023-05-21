@@ -4,7 +4,7 @@ This application is a React-based web app that displays a tag cloud visualizatio
 
 ## App.js
 
-The `App.js` file is the main component of the application. It handles fetching the tag cloud data from the API, manages the component state, and renders the `CirclePackingCanvas` component.
+The `App.js` file is the main component of the application. It handles fetching the tag cloud data from the API, manages the component state, and renders the `CirclePackingCanvas` component. THRESHOLD_LIMIT for tag cloud can be set in app.js 
 
 ### Installation & Start the project.
 
